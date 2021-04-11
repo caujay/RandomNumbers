@@ -1,0 +1,122 @@
+(players = {
+  "players": [
+    {
+      "id": 0,
+      "name": "Macieg Oban",
+      "nickname": "Oban",
+      "champions": ["Vi", "Nocturne", "Warwick"]
+    },
+    {
+      "id": 1,
+      "name": "Kingu",
+      "nickname": "kinGu1",
+      "champions": [
+        "Anivia",
+        "Sylas",
+        "Tristana",
+        "Kyle",
+        "Ryze",
+        "Neeko",
+        "Jayce",
+        "Kennen",
+        "Diana",
+        "Senna",
+        "Kassadin",
+        "Nami",
+        "Lux",
+        "Velkoz",
+        "Ahri",
+        "Syndra",
+        "Twisted Fate",
+        "Orianna",
+        "Fizz"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pop",
+      "nickname": "Nocnysihill",
+      "champions": ["Heimerdinger", "Ekko", "Skarner", "Diana"]
+    },
+    {
+      "id": 3,
+      "name": "Acce",
+      "nickname": "Lostries",
+      "champions": [
+        "Aatrox",
+        "Nunu",
+        "Graves",
+        "Jhin",
+        "Tristana",
+        "Cho'Gath",
+        "Pantheon"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Caujay",
+      "nickname": "D3kada",
+      "champions": ["Nautlius", "Lulu"]
+    },
+    {
+      "id": 5,
+      "name": "Loczek",
+      "nickname": "spear6",
+      "champions": ["Lee Sin", "Zed", "Yasuo", "Darius", "Fizz", "Vayne"]
+    },
+    {
+      "id": 6,
+      "name": "Siemati",
+      "nickname": "MEGAKNAGA12",
+      "champions": ["Hecarim"]
+    },
+    {
+      "id": 7,
+      "name": "tomi",
+      "nickname": "Tuqeloff",
+      "champions": ["Ahri", "Malphite"]
+    },
+    {
+      "id": 8,
+      "name": "Coltque",
+      "nickname": "Coltque",
+      "champions": ["Każdy kurier poza Aphelios"]
+    },
+    {
+      "id": 9,
+      "name": "Lukaszek",
+      "nickname": "Enaron",
+      "champions": ["Xin Zhao", "Yone", "Kayn"]
+    },
+    {
+      "id": 10,
+      "name": "Demolka",
+      "nickname": "Demolka66",
+      "champions": ["Wszystkim jest chujowy"]
+    },
+    {
+      "id": 11,
+      "name": "Zorile",
+      "nickname": "Zoreillee",
+      "champions": ["Illaoi", "Zoe"]
+    },
+    {
+      "id": 12,
+      "name": "Adam",
+      "nickname": "Baniucha",
+      "champions": ["Jakieś supporty"]
+    },
+    {
+      "id": 13,
+      "name": "Zmywarka Martinez",
+      "nickname": "lubieto07",
+      "champions": ["No data"]
+    },
+    {
+      "id": 14,
+      "name": "Chlopak martineza",
+      "nickname": "T10BG",
+      "champions": ["No data"]
+    }
+  ]
+})
