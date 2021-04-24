@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Random Numbers</title>
+    <link rel="stylesheet" href="styles/reset.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Varela&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles/styles.css" />
+  </head>
+  <header><h1>Random Numbers</h1></header>
+  <div class="player-counter">
+    Wybranych graczy: <span class="counter"></span>
+  </div>
+  <body onload="printPlayers()">
+    <table id="listPlayers"></table>
+    <div class="buttons-container">
+      <button type="button" id="3Btn">3v3</button>
+      <button type="button" id="4Btn">4v4</button>
+      <button type="button" id="5Btn">5v5</button>
+    </div>
+    <table id="listTeams"></table>
+    <script type="text/javascript" src="./js/player.json"></script>
+    <script type="text/javascript" src="./js/randomnumber.js"></script>
+  </body>
+</html>
